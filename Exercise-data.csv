@@ -1,0 +1,12 @@
+﻿Sr No,Exercise ,BP Level,Healthy Diet,Class
+1,Yes ,High,No,Negative
+2,Yes ,High,Yes,Positive
+3,No,High,No,Positive
+4,Moderate,High,No,Positive
+5,Moderate,Normal,No,Positive
+6,Moderate,Normal,Yes,Negative
+7,No,Normal,Yes,Positive
+8,Yes ,High,No,Negative
+9,Yes ,Normal,No,Positive
+10,Moderate,Normal,No,Positive
+11,Yes ,Normal,Yes,Positive
